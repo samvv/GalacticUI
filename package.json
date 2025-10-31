@@ -24,5 +24,11 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.2"
   }
 }
