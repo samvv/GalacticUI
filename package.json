@@ -1,0 +1,28 @@
+{
+  "name": "@galactic/ui",
+  "version": "0.1.0",
+  "description": "A free React UI library for desktop and mobile",
+  "keywords": [
+    "react",
+    "ui",
+    "web",
+    "desktop",
+    "mobile",
+    "framework"
+  ],
+  "homepage": "https://github.com/samvv/GalacticUI#readme",
+  "bugs": {
+    "url": "https://github.com/samvv/GalacticUI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samvv/GalacticUI.git"
+  },
+  "license": "MIT",
+  "author": "Sam Vervaeck",
+  "type": "module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
